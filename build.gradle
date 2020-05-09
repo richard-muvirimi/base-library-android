@@ -39,5 +39,5 @@ dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
 
     //Android 8 Date time backport
-    api 'com.jakewharton.threetenabp:threetenabp:1.2.1'
+    api 'com.jakewharton.threetenabp:threetenabp:1.2.4'
 }
