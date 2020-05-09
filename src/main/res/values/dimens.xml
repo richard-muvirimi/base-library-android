@@ -4,5 +4,8 @@
     <dimen name="space_15dp">15dp</dimen>
     <dimen name="space_20dp">20dp</dimen>
     <dimen name="space_5dp">5dp</dimen>
+    <dimen name="space_2dp">2dp</dimen>
+
+    <dimen name="icon_100dp">100dp</dimen>
 
 </resources>
